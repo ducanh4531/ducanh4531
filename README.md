@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anton
-- 👀 I’m interested in Mobile app
+- 👀 I’m interested in Web and Mobile development
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on who love working with React Native
+- 💞️ I’m looking to collaborate on who love working with Web and Mobile development
 - 📫 How to reach me: twitter @ducanh4531
 
 <!---
