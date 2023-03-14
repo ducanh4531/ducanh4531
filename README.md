@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-- 👋 Hi, my name is Duc Anh Le aka Anton. I am a bachelor in Information Technology
+- 👋 Hi, my name is Duc Anh Le aka Anton. I had a bachelor's degree in Information Technology
 - 👀 I’m interested in Web and Mobile development
 - 🌱 I’m currently learning Frontend, Backend and Mobile development
 - 💞️ I’m looking to collaborate on who love working with Web and Mobile development
