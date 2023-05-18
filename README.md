@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 - 👋 Hi, my name is Duc Anh Le aka Anton. I had a bachelor's degree in Information Technology
 - 👀 I’m interested in Web and Mobile development
-- 🌱 I’m currently learning Frontend, Backend and Mobile development
+- 🌱 I’m currently learning Frontend, Backend and Mobile development as well
 - 💞️ I’m looking to collaborate on who love working with Web and Mobile development
 - 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ducanhle1794/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ducanh4531/)
