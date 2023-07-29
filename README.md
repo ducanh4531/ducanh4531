@@ -6,10 +6,13 @@
 - 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ducanhle1794/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ducanh4531/)
 
-<img src="https://github.com/ducanh4531/ducanh4531/blob/main/certificate-reactnative.png" width="100">
-![React native certificate](https://github.com/ducanh4531/ducanh4531/blob/main/certificate-reactnative.png "React native certificate")<br>
-![GraphQL certificate](https://github.com/ducanh4531/ducanh4531/blob/main/certificate-graphql.png "GraphQL certificate")<br>
-![Fullstack certificate](https://github.com/ducanh4531/ducanh4531/blob/main/certificate-fullstack.png "Fullstack certificate")<br>
+<img alt="React native certificate" src="https://github.com/ducanh4531/ducanh4531/blob/main/certificate-reactnative.png" width="250">
+<img alt="GraphQL certificate" src="https://github.com/ducanh4531/ducanh4531/blob/main/certificate-graphql.png" width="250">
+<img alt="Fullstack certificate" src="https://github.com/ducanh4531/ducanh4531/blob/main/certificate-fullstack.png" width="250">
+
+![](https://github.com/ducanh4531/ducanh4531/blob/main/certificate-reactnative.png "React native certificate")<br>
+![]( "GraphQL certificate")<br>
+![](https://github.com/ducanh4531/ducanh4531/blob/main/certificate-fullstack.png "Fullstack certificate")<br>
 
 - This is my first React Native repository, check it out for more details:
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ducanh4531/part10)
