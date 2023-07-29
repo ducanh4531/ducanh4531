@@ -6,6 +6,7 @@
 - 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ducanhle1794/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ducanh4531/)
 
+<img src="https://github.com/ducanh4531/ducanh4531/blob/main/certificate-reactnative.png" width="100">
 ![React native certificate](https://github.com/ducanh4531/ducanh4531/blob/main/certificate-reactnative.png "React native certificate")<br>
 ![GraphQL certificate](https://github.com/ducanh4531/ducanh4531/blob/main/certificate-graphql.png "GraphQL certificate")<br>
 ![Fullstack certificate](https://github.com/ducanh4531/ducanh4531/blob/main/certificate-fullstack.png "Fullstack certificate")<br>
