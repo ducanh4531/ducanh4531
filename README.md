@@ -6,8 +6,8 @@
 - 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ducanhle1794/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ducanh4531/)
 
-<img talt="React native certificate" src="https://github.com/ducanh4531/ducanh4531/blob/main/certificate-reactnative.png" width="250"><img alt="GraphQL certificate" src="https://github.com/ducanh4531/ducanh4531/blob/main/certificate-graphql.png" width="250">
-<img alt="Fullstack certificate" src="https://github.com/ducanh4531/ducanh4531/blob/main/certificate-fullstack.png" width="250">
+<img talt="React native certificate" src="https://github.com/ducanh4531/ducanh4531/blob/main/certificate-reactnative.png" width="350"><img alt="GraphQL certificate" src="https://github.com/ducanh4531/ducanh4531/blob/main/certificate-graphql.png" width="350">
+<img alt="Fullstack certificate" src="https://github.com/ducanh4531/ducanh4531/blob/main/certificate-fullstack.png" width="350">
 
 - This is my first React Native repository, check it out for more details:
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ducanh4531/part10)
