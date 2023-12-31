@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, welcome to my GitHub Repo, I'm Duc Anh Le a.k.a Anton</h1>
-<h3 align="center">I'm a programmer, an avid travel, a life long learner, a people lover.</h3>
+<h3 align="center">I'm a programmer, an avid traveler, a lifelong learner, and a people lover.</h3>
 
 - 🔭 I’m currently working on **E-commerce website**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://resume.io/r/YqOMLsF5G](https://resume.io/r/YqOMLsF5G)
 
-- ⚡ Fun fact **I love history and travel**
+- ⚡ Hobbies **I love history, traveling, walking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
