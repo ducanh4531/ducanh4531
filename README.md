@@ -4,7 +4,7 @@
 <div align="left">
   <a href="https://app.daily.dev/ducanh4531" target="_blank">
     <img 
-      src="https://github.com/ducanh4531/ducanh4531/blob/master/devcard.svg" 
+      src="https://github.com/ducanh4531/ducanh4531/blob/main/devcard.svg" 
       width="256"
       align="right"
     />
