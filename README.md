@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, welcome to my GitHub Repo, I'm Duc Anh Le a.k.a Anton</h1>
 <h3 align="center">I'm a programmer, an avid traveler, a lifelong learner, and a people lover.</h3>
 
+<div align="left">
 - 🔭 I’m currently working on **E-commerce website**
 
 - 🌱 I’m currently learning **web development**
@@ -16,6 +17,15 @@
 - 📄 Know about my experiences [https://resume.io/r/YqOMLsF5G](https://resume.io/r/YqOMLsF5G)
 
 - ⚡ Hobbies **I love history, traveling, walking**
+
+  <a href="https://app.daily.dev/ducanh4531" target="_blank">
+    <img 
+      src="https://api.daily.dev/devcards/c2df75b5bdc3480b934461dfe3ff5a43.png?r=mo6" 
+      width="256"
+      align="right"
+    />
+  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
