@@ -2,9 +2,9 @@
 <h3 align="center">I'm a programmer, an avid traveler, a lifelong learner, and a people lover.</h3>
 
 <div align="left">
-  <a href="https://app.daily.dev/ducanh4531" target="_blank">
+  <a href="https://app.daily.dev/ducanh4531">
     <img 
-      src="https://github.com/ducanh4531/ducanh4531/blob/main/devcard.svg" 
+      src="./devcard.png" 
       width="256"
       align="right"
     />
