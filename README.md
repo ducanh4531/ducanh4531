@@ -6,6 +6,7 @@
     <img 
       src="./devcard.png" 
       width="356"
+      alt="Ducanh Le's Dev Card"
       align="right"
     />
   </a>
