@@ -5,7 +5,7 @@
   <a href="https://app.daily.dev/ducanh4531">
     <img 
       src="./devcard.png" 
-      width="256"
+      width="356"
       align="right"
     />
   </a>
