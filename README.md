@@ -8,15 +8,13 @@
 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/react-45A1FC?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
 </p>
 
-My primary programming language is Javascript/Typescript, and my long-term interests focus on Web development.
+My primary programming language is Javascript/Typescript, and my long-term interests focus on systems/algorithms.
 
 I hope to grow into a full stack engineer and an independent developer known for creating polished and thoughtful work. I also enjoy designing visually aesthetic web pages and creative digital content.
 
