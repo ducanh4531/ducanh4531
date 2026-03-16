@@ -4,7 +4,9 @@
   <img src ="https://raw.githubusercontent.com/ducanh4531/ducanh4531/main/img/sad-typescript.gif">
 </p>
 
-<p align="left"> 
+<p align="left">
+  
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
 
@@ -14,7 +16,7 @@
 
 </p>
 
-My primary programming language is Javascript/Typescript, and my long-term interests focus on systems/algorithms.
+My primary programming language is Javascript/Typescript/C++/Go, and my long-term interests focus on systems/algorithms.
 
 I hope to grow into a full stack engineer and an independent developer known for creating polished and thoughtful work. I also enjoy designing visually aesthetic web pages and creative digital content.
 
