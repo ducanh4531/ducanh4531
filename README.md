@@ -14,7 +14,7 @@
 
 </p>
 
-My primary programming language is Typescript/C++, and my long-term interests focus on systems/algorithms.
+My primary programming language is Typescript/Java/C++, and my long-term interests focus on systems/algorithms.
 
 I hope to grow into a full stack engineer and an independent developer known for creating polished and thoughtful work. I also enjoy designing visually aesthetic web pages and creative digital content.
 
