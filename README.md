@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
-My primary programming language is Typescript/Java, and my long-term interests focus on systems/algorithms.
+A Senior Full Stack Engineer currently based in Danang, Vietnam. My primary technical ecosystem revolves around Java/Spring Boot and TypeScript/React.
 
-I hope to grow into a full stack engineer and an independent developer known for creating polished and thoughtful work. I also enjoy designing visually aesthetic web pages and creative digital content.
+Driven by a long-term fascination with system design and algorithms, I focus on building robust, high-performance backends and practical enterprise implementations. On the frontend, I have a keen eye for designing visually aesthetic web pages and creating engaging digital content.
 
-I'm currently a senior at FPT, usually based in Hanoi or Danang. Now at FPT, I focus on the practical implementation.
+My goal is to continually grow as an independent developer recognized for delivering polished, thoughtful, and high-quality software craftsmanship.
 
